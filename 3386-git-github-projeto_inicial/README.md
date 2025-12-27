@@ -1,9 +1,9 @@
-<h1>Jogo do número secreto</h1>
+<h1>Secret number</h1>
 
-<h2>⚙️ Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<h2>⚙️ About</h2>
+<p>This project was used for practicing programming logic.</p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
